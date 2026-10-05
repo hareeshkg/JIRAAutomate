@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.local-data/
+*.sqlite*
+playwright-report/
+test-results/
+.DS_Store
+
+.env
+.env.*
+!.env.example
+profiles/
+artifacts/
+recordings/
